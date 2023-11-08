@@ -44,7 +44,7 @@ let person = {
         nickname : "maa",
         age : 40, 
         languages: ["English", "Hindi"],
-        isKind : false ,
+        isKind : true ,
         favFoods : ["Gol Gappe", "Cassata ice cream"],
         marriage: {
             istrue : true,
