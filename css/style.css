@@ -1,0 +1,75 @@
+header {
+    background: hsl(321, 29%, 91%);
+  }
+  
+  main {
+    display: flex; 
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+
+  header{
+    font-size: 75px;
+    color: azure;
+  text-align: center;
+ padding: 4px;
+  border-radius: 4px;
+  }
+
+
+h1 {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.family-member {
+  background-color: rgb(56, 42, 52);
+  border-radius: 12px;
+ padding: 12px;
+
+}
+
+.lang-container {
+  display: flex;
+  margin : 10px;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.lang-container > span {
+  background-color: rgb(160, 95, 141);
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.food-container {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  flex-wrap: wrap;
+  gap: 10px; 
+}
+
+.food-container > span {
+    background-color: rgb(220, 134, 194);
+    padding: 4px;
+    border-radius: 4px;
+  }
+
+p{
+    color: rgb(255, 242, 250);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#headline { 
+    color: rgb(165, 42, 116);
+    font-size: x-small;
+    font-family: 'Courier New', Courier, monospace;
+  }

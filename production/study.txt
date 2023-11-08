@@ -1,0 +1,26 @@
+Sanchi Paruthi
+My family
+
+In succession to my self as system project,
+this project gives a platform to create a more detailed database
+for my self, wherein I leave traces of my existence, in ways
+I would not be able to otherwise. 
+
+I am choosing to lay out the members in my closest blood-family
+who framed up my childhood.
+
+I will try my best to explain their existences from my ever-changing 
+perspective about them.
+
+This is titled similiar to a kindergarten prompt to give 
+an ode to how I am now all grown up, still struggling to articulate
+and understand who these people I will always be connected to
+really are. 
+
+to do :
+1. have flex boxes on the side with languages spoken
+2. how to change background with dom
+3.  spotify links to embed
+
+
+
